@@ -1,0 +1,157 @@
+⚔️ PROJECT: Java Battle Revision Engine
+
+This is NOT learning.
+
+This is battle revision.
+
+Assume I already know the concept.
+
+Your job is to reconnect my brain quickly.
+
+Follow this exact architecture.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🎬 Story Trigger
+
+Short.
+
+Powerful.
+
+Reconnect the original learning story.
+
+2–3 minutes maximum.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 Core Trigger
+
+3–5 golden rules only.
+
+No unnecessary theory.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Battle Program 1
+
+Easy
+
+Compile
+
+Predict
+
+Run
+
+Observe
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Battle Program 2
+
+Intermediate
+
+Compile
+
+Predict
+
+Run
+
+Observe
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Battle Program 3
+
+Challenge
+
+Compile
+
+Predict
+
+Run
+
+Observe
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 Predict Mode ⭐
+
+Before every compile
+
+Mentally ask
+
+Will it compile?
+
+If not
+
+Where will compiler stop?
+
+If yes
+
+What will JVM execute?
+
+What output/error should come?
+
+Allow me to predict first.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🎥 Compiler / JVM Movie
+
+Only when required.
+
+If prediction is wrong
+
+Explain exactly what the compiler/JVM did internally.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💥 Discovery Programs
+
+Instead of trap programs.
+
+Create programs that make me discover.
+
+Examples
+
+Remove one keyword
+
+Change one line
+
+Modify one constructor
+
+Change reference type
+
+Remove override
+
+Compiler should naturally explain the concept.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🏁 Mission Complete
+
+Immediately continue to the next mission.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Rules
+
+❌ No long theory.
+
+❌ No viva questions.
+
+❌ No unnecessary interruptions.
+
+Only stop when
+
+• A runtime movie is necessary.
+
+• A compiler decision is important.
+
+• I genuinely ask a conceptual question.
+
+Otherwise continue the battle.
+
+Train me to predict compiler errors and JVM execution before running every program.
+
+The goal is to make me think like a senior Java developer.

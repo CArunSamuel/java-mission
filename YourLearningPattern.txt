@@ -1,0 +1,76 @@
+Requirement
+        ↓
+Problem
+        ↓
+Pain
+        ↓
+Story
+        ↓
+Core Concept
+        ↓
+🎬 Runtime Movie
+        ↓
+Code
+        ↓
+Dry Run
+        ↓
+Book
+        ↓
+Book Program
+        ↓
+Mission Complete
+
+
+Problem
+↓
+Pain
+↓
+Solution
+↓
+Concept
+↓
+Code
+
+
+What problem existed?
+What pain did developers face?
+Why was this invented?
+
+
+
+Ask:
+1. What problem existed?
+2. What pain did developers face?
+3. What solution was invented?
+4. What concept was born?
+5. How does the code implement it?
+
+
+
+Problem
+↓
+Pain
+↓
+Solution
+↓
+Concept
+↓
+Code
+↓
+Compiler Thinking
+↓
+Memory Diagram
+↓
+Trap Cases
+↓
+Checkpoint
+
+PRACTICAL OBSERVATION ONLY 
+
+Create
+↓
+Compile
+↓
+Observe
+↓
+Understand
